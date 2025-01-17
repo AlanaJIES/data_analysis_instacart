@@ -11,3 +11,12 @@ Este proyecto realiza un análisis exploratorio y preprocesamiento de datos para
 
 ```bash
 python proyecto_3.py
+```
+
+## Resultados
+
+-Identificación de productos más populares
+
+-Comportamientos de compra por hora y día
+
+-Análisis de repeticiones en pedidos
