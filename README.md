@@ -11,6 +11,7 @@ Este proyecto realiza un análisis exploratorio y preprocesamiento de datos para
 
 ```bash
 python proyecto_3.py
+```
 
 ## Resultados
 
