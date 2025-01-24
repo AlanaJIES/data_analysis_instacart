@@ -1,7 +1,6 @@
-# Proyecto 11 Ofuscamiento de datos de Sure Tomorrow
+# Proyecto 3 - Análisis de Datos de Instacart
 
 ## Descripción
-# Proyecto 3 - Análisis de Datos de Instacart
 Este proyecto realiza un análisis exploratorio y preprocesamiento de datos para un dataset de pedidos de Instacart.
 
 ## Contenido del Notebook
